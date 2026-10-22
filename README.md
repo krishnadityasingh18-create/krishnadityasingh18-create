@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/hero-light.svg">
-  <img alt="Krishnaditya Singh field specimen plate" src="assets/hero-light.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/krishnadityasingh18-create/krishnadityasingh18-create@32f187c9ce98/assets/hero-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/krishnadityasingh18-create/krishnadityasingh18-create@32f187c9ce98/assets/hero-light.svg">
+  <img alt="Krishnaditya Singh field specimen plate" src="https://cdn.jsdelivr.net/gh/krishnadityasingh18-create/krishnadityasingh18-create@32f187c9ce98/assets/hero-light.svg" width="100%">
 </picture>
 
 ![profile](https://img.shields.io/badge/profile-krishnadityasingh18--create-FF7C1E?style=flat-square&labelColor=201713) ![layers](https://img.shields.io/badge/layers-2-66A9CC?style=flat-square&labelColor=201713)
@@ -18,9 +18,9 @@ Shipping products end to end\. Now building Saathi and JARVIS\.
 ## Classification plate
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/closed-loop-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/closed-loop-light.svg">
-  <img alt="Krishnaditya Singh classification plate" src="assets/closed-loop-light.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/krishnadityasingh18-create/krishnadityasingh18-create@32f187c9ce98/assets/closed-loop-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/krishnadityasingh18-create/krishnadityasingh18-create@32f187c9ce98/assets/closed-loop-light.svg">
+  <img alt="Krishnaditya Singh classification plate" src="https://cdn.jsdelivr.net/gh/krishnadityasingh18-create/krishnadityasingh18-create@32f187c9ce98/assets/closed-loop-light.svg" width="100%">
 </picture>
 
 ## Specimen catalog
