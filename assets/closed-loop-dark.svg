@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330" role="img" aria-label="Krishnaditya Singh field taxonomy" data-mode="dark">
+      <defs>
+    <pattern id="field-grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#3F3226" stroke-opacity=".12"/><path d="M5 28l4-4M23 8l4-4" stroke="#8B95A2" stroke-opacity=".13"/></pattern>
+    <filter id="field-mineral" x="0" y="0" width="100%" height="100%"><feTurbulence type="fractalNoise" baseFrequency=".7" numOctaves="2" seed="11"/><feColorMatrix values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 .032 0"/></filter>
+    <g id="field-specimen-pin"><path d="M0-9V9" stroke="#66A9CC"/><circle cy="-10" r="3.2" fill="#66A9CC"/><path d="M-5 9H5" stroke="#8B95A2"/></g>
+  </defs><style>
+    .field-serif{font-family:Iowan Old Style,Palatino Linotype,Book Antiqua,Georgia,serif}.field-label{font-family:Avenir Next Condensed,Arial Narrow,sans-serif}.field-mono{font-family:ui-monospace,SFMono-Regular,Menlo,monospace}
+    .field-trace{stroke-dasharray:4 8;animation:field-trace 9s linear infinite}.field-pin{transform-box:fill-box;transform-origin:center;animation:field-pin 3.8s ease-in-out infinite}.field-rise{animation:field-rise .68s cubic-bezier(.2,.75,.2,1) both}
+    @keyframes field-trace{to{stroke-dashoffset:-120}}@keyframes field-pin{50%{opacity:.45;transform:scale(.78)}}@keyframes field-rise{from{opacity:.18;transform:translateY(7px)}to{opacity:1;transform:translateY(0)}}
+    @media(prefers-reduced-motion:reduce){.field-trace,.field-pin,.field-rise{animation:none}}
+  </style><rect width="1200" height="330" fill="#0B0908"/><rect x="14" y="14" width="1172" height="302" fill="#151010" stroke="#3F3226"/><rect x="14" y="14" width="1172" height="302" fill="url(#field-grid)"/><rect x="14" y="14" width="1172" height="302" filter="url(#field-mineral)" opacity=".4" pointer-events="none"/>
+      <rect x="29" y="29" width="235" height="272" fill="#201713" fill-opacity=".62" stroke="#3F3226"/><text x="50" y="54" class="field-mono" font-size="8" letter-spacing="2.1" fill="#8B95A2">DICHOTOMOUS KEY</text><text x="50" y="91" class="field-serif" font-size="21" font-style="italic" fill="#F6EDDB">Layer taxonomy</text>
+      <path d="M58 244C57 207 86 186 77 151C69 120 88 94 111 75" fill="none" stroke="#FF7C1E" stroke-width="2.5"/><path class="field-trace" d="M58 244C57 207 86 186 77 151C69 120 88 94 111 75" fill="none" stroke="#8B95A2"/><g transform="translate(58 245)"><use class="field-pin" href="#field-specimen-pin"/></g>
+      <text x="184" y="190" text-anchor="middle" class="field-serif" font-size="58" font-weight="700" fill="#F6EDDB">02</text><text x="184" y="216" text-anchor="middle" class="field-mono" font-size="8" letter-spacing="1.8" fill="#66A9CC">TAXA OBSERVED</text><text x="50" y="280" class="field-label" font-size="9" fill="#A99C86">KRISHNADITYA SINGH</text>
+      <text x="309" y="40" class="field-serif" font-size="17" font-style="italic" fill="#F6EDDB">LAYER TAXONOMY / CLASSIFICATION KEY</text><text x="1146" y="40" text-anchor="end" class="field-mono" font-size="8" letter-spacing="1.4" fill="#A99C86">PRODUCTS AND DETECTION SYSTEMS</text><path d="M309 52H1146" stroke="#3F3226"/><path d="M727 61V303" stroke="#3F3226"/>
+      <g class="field-rise" style="animation-delay:0ms">
+        <path d="M290 91C301 91 299 73 312 73" fill="none" stroke="#FF7C1E"/><g transform="translate(317 73) scale(.72)"><use class="field-pin" href="#field-specimen-pin"/></g>
+        <text x="334" y="70" class="field-mono" font-size="7.5" letter-spacing="1.3" fill="#FF7C1E">01 / PRODUCT</text><text x="500" y="70" class="field-serif" font-size="11" font-style="italic" fill="#F6EDDB">Versio</text>
+        <text x="334" y="87" class="field-label" font-size="8.5" fill="#A99C86">Review-first version control for writing, code, CAD</text><path d="M334 95H708" stroke="#3F3226"/>
+      </g><g class="field-rise" style="animation-delay:42ms">
+        <path d="M290 138C301 138 299 120 312 120" fill="none" stroke="#66A9CC"/><g transform="translate(317 120) scale(.72)"><use class="field-pin" href="#field-specimen-pin"/></g>
+        <text x="334" y="117" class="field-mono" font-size="7.5" letter-spacing="1.3" fill="#66A9CC">02 / LIBRARY</text><text x="500" y="117" class="field-serif" font-size="11" font-style="italic" fill="#F6EDDB">routine-guard</text>
+        <text x="334" y="134" class="field-label" font-size="8.5" fill="#A99C86">Learns daily rhythms, flags days that break them</text><path d="M334 142H708" stroke="#3F3226"/>
+      </g><circle cx="1129" cy="293" r="3" fill="#FF7C1E"/><circle cx="1141" cy="293" r="3" fill="#66A9CC"/>
+    </svg>
